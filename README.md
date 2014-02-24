@@ -3,6 +3,12 @@
 
 A simple Sass starter project with folder and file structure already set up for quicker development.
 
+This is my personal boilerplate for starting front-end development projects using Saas(Scss).
+
+I use CodeKit for my Saas compiler and prefer to role with my own mixins.
+
+I use this
+
 ## Author
 
 **John Bowie**
