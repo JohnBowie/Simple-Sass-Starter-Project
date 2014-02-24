@@ -1,7 +1,7 @@
 
 # Simple Sass Starter Project
 
-A simple Sass starter project with folder and file structure already set up FOR QUICKER DEVELOPMENT.
+A simple Sass starter project with folder and file structure already set up for quicker development.
 
 ## Author
 
