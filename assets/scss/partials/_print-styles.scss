@@ -1,27 +1,24 @@
 // Print Styles
 
 /*
-	NOTE: https://github.com/h5bp/html5-boilerplate/blob/master/css/main.css
+  NOTE: https://github.com/h5bp/html5-boilerplate/blob/master/css/main.css
 */
 
 @media print
 {
-  *
-  {
+  * {
   	background: transparent !important;
   	box-shadow: none !important;
   	color: #000 !important; /* Black prints faster: h5bp.com/s */
   	text-shadow: none !important;
   }
 
-  p, h2, h3
- {
- 	orphans: 3; /* http://css-tricks.com/almanac/properties/o/orphans/ */
+  p, h2, h3 {
+    orphans: 3; /* http://css-tricks.com/almanac/properties/o/orphans/ */
     widows: 3; 	/* http://css-tricks.com/almanac/properties/w/widows/ */
   }
 
-  h2, h3
-  {
-  	page-break-after: avoid;
+  h2, h3 {
+    page-break-after: avoid;
   }
 }

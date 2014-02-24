@@ -1,6 +1,6 @@
 // On load
 /*
-$(document).ready(function() {
+  $(document).ready(function() {
 
-});
+  });
 */
