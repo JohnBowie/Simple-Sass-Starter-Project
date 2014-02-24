@@ -7,8 +7,6 @@ This is my personal boilerplate for starting front-end development projects usin
 
 I use CodeKit for my Saas compiler and prefer to role with my own mixins.
 
-I use this
-
 ## Author
 
 **John Bowie**
